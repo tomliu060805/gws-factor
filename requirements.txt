@@ -1,0 +1,13 @@
+# Core (analyses 01-06)
+numpy>=1.21
+pandas>=1.4
+scipy>=1.8
+statsmodels>=0.13
+
+# Market-data analyses (07 onward) and figures
+pyarrow>=8.0
+matplotlib>=3.5
+
+# Crawlers (crawler/) — optional
+akshare>=1.12
+openpyxl>=3.0
