@@ -20,5 +20,10 @@ paper/*.blg
 paper/*.bbl
 paper/*.synctex.gz
 
+# Secrets / local environment
+.env
+.env.*
+!.env.example
+
 # OS
 .DS_Store
